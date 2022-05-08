@@ -1,2 +1,2 @@
 # hangman-py
-Simple python hangman project
+Extremely simple python hangman project
